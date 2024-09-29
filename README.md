@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandeyyjii
-- 👀 I’m interested in programming and web3.
-- 🌱 I’m currently learning python and full stack web development
+- 👀 I’m interested in cyber security .
+- 🌱 I’m currently working in the field of cuber security.
 - 📫 How to reach me mail at pandeyharshit2446@gmail.com
 
 <!---
